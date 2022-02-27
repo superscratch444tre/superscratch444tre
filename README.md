@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superscratch444tre&theme=dark" />
 </a>
+<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=superscratch444tre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
