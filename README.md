@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superscratch444tre&theme=dark" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=superscratch444tre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <br><br>
 Also go see this nice project by <a href="https://github.com/Secret-chest">Secret-chest</a>:<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Secret-chest&repo=scratch2python&show_owner=true&theme=dark)](https://github.com/Secret-chest/scratch2python)
