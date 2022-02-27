@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superscratch444tre&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Superscratch444tre's GitHub stats](https://github-readme-stats.vercel.app/api?username=superscratch444tre&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)                                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superscratch444tre&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Also go see this nice project:<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Secret-chest&repo=scratch2python&show_owner=true&theme=dark)](https://github.com/Secret-chest/scratch2python)
+
+
